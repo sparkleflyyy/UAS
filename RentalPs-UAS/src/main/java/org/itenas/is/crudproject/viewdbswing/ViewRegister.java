@@ -7,10 +7,6 @@ package org.itenas.is.crudproject.viewdbswing;
 import org.itenas.is.crudproject.servicesdbimpl.ControllerLogin;
 import javax.swing.JOptionPane;
 
-/**
- *
- * @author Hilman Nurfauzan
- */
 public class ViewRegister extends javax.swing.JFrame {
     Boolean hasil;
     ControllerLogin conLog = new ControllerLogin();
