@@ -314,6 +314,7 @@ public class ViewStok extends javax.swing.JFrame {
 
     private void btn_clearActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btn_clearActionPerformed
         // TODO add your handling code here:
+        clearData();
     }//GEN-LAST:event_btn_clearActionPerformed
 
     private void btn_deleteActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btn_deleteActionPerformed
